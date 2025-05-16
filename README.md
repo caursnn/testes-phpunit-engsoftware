@@ -35,9 +35,20 @@ PHP, PHPUnit, Git & GitHub
 
 ## Autores
 
-| Nome                | GitHub                                         | Foto                                                         |
-|---------------------|------------------------------------------------|--------------------------------------------------------------|
-| Cauana Rosin Ghizzi | [@caursnn](https://github.com/caursnn)        | [![Cauana Rosin](https://github.com/caursnn.png)](https://github.com/caursnn) |
-| Natália             | [@Nati-i](https://github.com/Nati-i)           | [![Natani Gayardo](https://github.com/Nati-i.png)](https://github.com/Nati-i) |
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/caursnn">
+        <img src="https://github.com/caursnn.png" width="80" alt="Cauana"/><br/>
+        <sub><b>Cauana Rosin Ghizzi</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Nati-i">
+        <img src="https://github.com/Nati-i.png" width="80" alt="Natani"/><br/>
+        <sub><b>Natani Gayardo</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
