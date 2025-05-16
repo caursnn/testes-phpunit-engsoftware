@@ -33,19 +33,24 @@ testes-phpunit-engsoftware/
 ## Estrutura do projeto
 PHP, PHPUnit, Git & GitHub
 
+## Documentação
+
+[Clique aqui acesso da documentação em PDF](Documentação%20de%20Resultados%20dos%20Testes%20Unitarios.pdf)
+
+
 ## Autores
 
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/caursnn">
-        <img src="https://github.com/caursnn.png" width="80" alt="Cauana"/><br/>
+        <img src="https://github.com/caursnn.png" width="100" alt="Cauana"/><br/>
         <sub><b>Cauana Rosin Ghizzi</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Nati-i">
-        <img src="https://github.com/Nati-i.png" width="80" alt="Natani"/><br/>
+        <img src="https://github.com/Nati-i.png" width="100" alt="Natani"/><br/>
         <sub><b>Natani Gayardo</b></sub>
       </a>
     </td>
