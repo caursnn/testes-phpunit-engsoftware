@@ -30,7 +30,7 @@ testes-phpunit-engsoftware/
 ├── vendor/                 # (gerado pelo Composer)
 └── README.md               # Este arquivo de documentação
 
-## Estrutura do projeto
+## Ferramentas
 PHP, PHPUnit, Git & GitHub
 
 ## Documentação
